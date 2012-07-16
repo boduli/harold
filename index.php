@@ -11,4 +11,6 @@ print_r("We are testing another Merge Work Flow");
 echo "serious merge testing - netbeans gitplugin";
 echo 'we are doing it again';
 echo 'Will it work finally - Keeping Both?';
+echo 'Will it work finally ? MTX';
+echo 'New Line';
 ?>
