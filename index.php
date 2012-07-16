@@ -8,5 +8,5 @@ echo "Hello World";
 echo "Making Changes on the same line";
 echo "testing hullo";
 print_r("We are testing another Merge Work Flow");
-echo "serious testing";
+echo "serious merge testing - netbeans gitplugin";
 ?>
