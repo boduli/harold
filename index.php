@@ -9,4 +9,5 @@ echo "Making Changes on the same line";
 echo "testing hullo";
 print_r("We are testing another Merge Work Flow");
 echo "serious merge testing - netbeans gitplugin";
+echo 'we are doing it again';
 ?>
